@@ -1,0 +1,1 @@
+Simply syntax fix yields the picoctf code

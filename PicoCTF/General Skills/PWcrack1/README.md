@@ -1,0 +1,3 @@
+Simply look at source code for file
+
+file does not encrypt what the required password is....

@@ -1,0 +1,1 @@
+Simply used prior made decimal to binary python file found in 2Warm/decimal_to_binary.py
