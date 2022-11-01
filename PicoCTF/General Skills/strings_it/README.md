@@ -1,0 +1,1 @@
+used strings command on file, output was to big for console so moved it to output.txt and searched for 'picoCTF'
