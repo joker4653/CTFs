@@ -1,0 +1,4 @@
+bandit4 pw = 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
+hidden file.
+Using ls with -la allows you to see hidden files in a directory, then just cat out file
